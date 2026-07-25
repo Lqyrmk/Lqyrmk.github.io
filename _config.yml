@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: 赋格：Bit & Piece
+subtitle: '一个小小沉思录'
+description: '记录一些想法、流水账、技术实践与思考'
+keywords: 前端, 后端, AI
+author: by Lqyrmk
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://lqyrmk.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
