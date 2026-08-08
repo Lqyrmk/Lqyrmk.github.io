@@ -2,6 +2,8 @@
 title: Hello World! 我的第一篇文章
 date: 2026-07-25
 updated: 2026-08-02
+categories:
+- 技术
 ---
 
 历尽千辛万苦终于搭好了博客，得开始写一点东西了。
