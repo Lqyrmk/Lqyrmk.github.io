@@ -46,8 +46,8 @@ code_blocks:
 # Formal:
 #   icon: link || the description || color
 social:
-  # fab fa-github: https://github.com/xxxxx || Github || '#24292e'
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
+  fab fa-github: https://github.com/Lqyrmk || Github || '#24292e'
+  fas fa-envelope: mailto:lqyrmk@gmail.com || Email || '#4a7dbe'
 
 # --------------------------------------
 # Image Settings
@@ -149,7 +149,7 @@ index_top_img_height:
 
 # The subtitle on homepage
 subtitle:
-  enable: false
+  enable: true
   # Typewriter Effect
   effect: true
   # Customize typed.js
@@ -165,6 +165,7 @@ subtitle:
   source: false
   # If you close the typewriter effect, the subtitle will only show the first line of sub
   sub:
+    - 做有趣的事~
 
 # Article layout on the homepage
 # 1: Cover on the left, info on the right
